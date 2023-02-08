@@ -1,5 +1,5 @@
 const APP_ID = "b0cc3dbb83154a609b12ed0b9a724d04"
-const TOKEN = "007eJxTYNj+S0v0J3/k/sdRu60jhUI4V9X+iY74W/Dwduernh/BfmwKDEkGycnGKUlJFsaGpiaJZgaWSYZGqSkGSZaJ5kYmKQYml9Y8Sm4IZGS4eo6LkZEBAkF8HobkjMSSovz8XCMLAyMGBgDj1iQO"
+const TOKEN = "007eJxTYPj1vnXexrcmTyLT7iZuK+EUTptxYLf0xwt7jt5L+2nKbdigwJBkkJxsnJKUZGFsaGqSaGZgmWRolJpikGSZaG5kkmJgsmbn4+SGQEaGQ55BrIwMEAji8zAkZySWFOXn5xpZGBgxMAAAbEwlCw=="
 const CHANNEL = "chatroom2802"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
